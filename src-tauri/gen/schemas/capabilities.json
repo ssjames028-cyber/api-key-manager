@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capability for API Key Manager","local":true,"windows":["main"],"permissions":["core:default","clipboard-manager:allow-write-text","clipboard-manager:allow-read-text"]}}

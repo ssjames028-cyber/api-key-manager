@@ -1,0 +1,18 @@
+# 의존성
+node_modules/
+
+# 빌드 결과물
+dist/
+src-tauri/target/
+
+# 앱 데이터 (민감 정보)
+*.enc
+vault.json
+keyfile.bin
+
+# macOS
+.DS_Store
+
+# 환경변수
+.env
+.env.*
